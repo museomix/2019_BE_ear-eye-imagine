@@ -17,4 +17,10 @@ The _Ear Eye Imagine_ team was formed during [Museomix](http://museomix.be/) 201
 During the three-day hackathon, Instagram content was posted at [@eareyeimage](https://instagram.com/eareyeimagine).
 The team consisted of the following people having the designated Museomix roles:
 
+- Laura A. (maker)
+- Thomas D. V. (content specialist)
+- Sarah D. (communicator)
 - [Redmer Kronemeijer](rdmr.eu/contact/) (coder)
+- [Clara Martin](http://clara-martin.fr/) (graphic design)
+- Linda V. (mediator)
+- Melis Y. (facilitator)
