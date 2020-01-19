@@ -20,7 +20,11 @@ The team consisted of the following people having the designated Museomix roles:
 - Laura A. (maker)
 - Thomas D. V. (content specialist)
 - Sarah D. (communicator)
-- [Redmer Kronemeijer](rdmr.eu/contact/) (coder)
-- [Clara Martin](http://clara-martin.fr/) (graphic design)
+- [Redmer KRONEMEIJER](rdmr.eu/contact/) (coder)
+- [Clara MARITN](http://clara-martin.fr/) (graphic design)
 - Linda V. (mediator)
 - Melis Y. (facilitator)
+
+## Special thanks
+
+Special thanks for the soundscapes / sound design: Anouk AUDART.
